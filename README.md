@@ -46,7 +46,7 @@ npm install
 npm run dev
 ```
 
-Akses di: [http://localhost:3000](http://localhost:3000)
+Akses di: [http://localhost:5173](http://localhost:5173)
 
 ---
 
@@ -91,3 +91,7 @@ MIT License
 * 🌐 Dibuat dengan ❤️ untuk komunitas scanlation & comic editor
 
 ---
+
+## Progress
+
+* Ocr Masih Kesulitan Saat Membaca Panel Komik
